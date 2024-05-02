@@ -1,0 +1,12 @@
+{
+  "id": "name/namespace/new_nodearium_node",
+  "outputs": [
+    "float"
+  ],
+  "inputs": {
+    "a": {
+      "type": "float",
+      "value": 0.5
+    }
+  }
+}
