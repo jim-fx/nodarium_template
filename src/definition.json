@@ -1,10 +1,14 @@
 {
-  "id": "name/namespace/new_nodearium_node",
+  "id": "my-name/my-namespace/zylinder-node",
   "outputs": [
-    "float"
+    "geometry"
   ],
   "inputs": {
-    "a": {
+    "height": {
+      "type": "float",
+      "value": 2
+    },
+    "radius": {
       "type": "float",
       "value": 0.5
     }
